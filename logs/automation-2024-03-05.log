@@ -1,0 +1,53 @@
+22:53:22.066 [main] INFO  testCases.Test_001 - Validation of WebPage Title is done
+22:53:24.684 [main] INFO  testCases.Test_001 - Validation of Emi Calculator Started
+22:53:29.847 [main] INFO  testCases.Test_001 - Changing the Loan Tenure for year and month in Emi Calculator Started
+22:53:32.236 [main] INFO  testCases.Test_001 - Changing the Loan Tenure for year and month in Emi Calculator Done
+22:53:34.245 [main] INFO  testCases.Test_001 - Validation of Emi Calculator Started
+22:53:35.197 [main] INFO  testCases.Test_001 - Validation of Loan Amount Calculator Started
+22:53:41.472 [main] INFO  testCases.Test_001 - Changing the Loan Tenure for year and month in Loan amount Calculator Started
+22:53:44.197 [main] INFO  testCases.Test_001 - Changing the Loan Tenure for year and month in Loan amount Calculator Done
+22:53:46.637 [main] INFO  testCases.Test_001 - Validation of Loan Amount Calculator Done
+22:53:47.624 [main] INFO  testCases.Test_001 - Validation of Loan Tenure Calculator Started
+22:53:55.112 [main] INFO  testCases.Test_001 - Validation of Loan Tenure Calculator Done
+22:53:55.696 [main] INFO  testCases.Test_001 - *****Test_001 Has Finished*****
+23:19:37.469 [main] INFO  testCases.Test_001 - *****Test_001 Has Started*****
+23:19:38.274 [main] INFO  testCases.Test_001 - Validation of WebPage Title is done
+23:19:39.751 [main] INFO  testCases.Test_001 - Filling of data on car loan Window Started
+23:19:44.209 [main] INFO  testCases.Test_001 - Filling of data on car loan Window Done
+23:19:44.618 [main] INFO  testCases.Test_001 - Printing one month principle and interest Started
+23:19:45.881 [main] INFO  testCases.Test_001 - Printing one month principle and interest Done
+23:19:46.345 [main] INFO  testCases.Test_001 - Navigation of Home Loan Emi Calculator page Started
+23:19:49.187 [main] INFO  testCases.Test_001 - Navigation of Home Loan Emi Calculator page Done
+23:19:49.188 [main] INFO  testCases.Test_001 - Validation of web page title started
+23:19:49.228 [main] INFO  testCases.Test_001 - Validation of web page title done
+23:19:50.318 [main] INFO  testCases.Test_001 - User Interface Checking on Home Loan Emi Calculator Started
+23:19:51.425 [main] INFO  testCases.Test_001 - User Interface Checking on Home Loan Emi Calculator Done
+23:19:52.192 [main] INFO  testCases.Test_001 - User Interface Checking on Home owner expenses Started
+23:19:53.516 [main] INFO  testCases.Test_001 - User Interface Checking on Home owner expenses Done
+23:19:54.375 [main] INFO  testCases.Test_001 - Filling Data on Home Loan Emi Calculator Started
+23:20:32.114 [main] INFO  testCases.Test_001 - Filling Data on Home Loan Emi Calculator Done
+23:20:35.892 [main] INFO  testCases.Test_001 - Validation of web page title started
+23:20:36.285 [main] INFO  testCases.Test_001 - Validation of WebPage Title is done
+23:20:37.376 [main] INFO  testCases.Test_001 - Validation of Emi Calculator Started
+23:20:40.774 [main] INFO  testCases.Test_001 - Changing the Loan Tenure for year and month in Emi Calculator Started
+23:20:43.629 [main] INFO  testCases.Test_001 - Changing the Loan Tenure for year and month in Emi Calculator Done
+23:20:45.847 [main] INFO  testCases.Test_001 - Validation of Emi Calculator Started
+23:20:46.797 [main] INFO  testCases.Test_001 - Validation of Loan Amount Calculator Started
+23:20:51.603 [main] INFO  testCases.Test_001 - Changing the Loan Tenure for year and month in Loan amount Calculator Started
+23:20:53.269 [main] INFO  testCases.Test_001 - Changing the Loan Tenure for year and month in Loan amount Calculator Done
+23:20:54.544 [main] INFO  testCases.Test_001 - Validation of Loan Amount Calculator Done
+23:20:55.255 [main] INFO  testCases.Test_001 - Validation of Loan Tenure Calculator Started
+23:21:01.496 [main] INFO  testCases.Test_001 - Validation of Loan Tenure Calculator Done
+23:21:01.834 [main] INFO  testCases.Test_001 - *****Test_001 Has Finished*****
+23:25:32.515 [main] INFO  testCases.Test_001 - *****Test_001 Has Started*****
+23:25:32.632 [main] INFO  testCases.Test_001 - Validation of WebPage Title is done
+23:25:33.910 [main] INFO  testCases.Test_001 - Filling of data on car loan Window Started
+23:25:36.336 [main] INFO  testCases.Test_001 - Filling of data on car loan Window Done
+23:25:36.894 [main] INFO  testCases.Test_001 - Printing one month principle and interest Started
+23:25:38.315 [main] INFO  testCases.Test_001 - Printing one month principle and interest Done
+23:25:38.744 [main] INFO  testCases.Test_001 - Navigation of Home Loan Emi Calculator page Started
+23:25:40.703 [main] INFO  testCases.Test_001 - Navigation of Home Loan Emi Calculator page Done
+23:25:40.711 [main] INFO  testCases.Test_001 - Validation of web page title started
+23:25:40.733 [main] INFO  testCases.Test_001 - Validation of web page title done
+23:25:42.075 [main] INFO  testCases.Test_001 - User Interface Checking on Home Loan Emi Calculator Started
+23:25:43.361 [main] INFO  testCases.Test_001 - User Interface Checking on Home Loan Emi Calculator Done

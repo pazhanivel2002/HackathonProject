@@ -1,0 +1,17 @@
+23:25:44.279 [main] INFO  testCases.Test_001 - User Interface Checking on Home owner expenses Started
+23:25:45.935 [main] INFO  testCases.Test_001 - User Interface Checking on Home owner expenses Done
+23:25:46.597 [main] INFO  testCases.Test_001 - Filling Data on Home Loan Emi Calculator Started
+23:26:08.219 [main] INFO  testCases.Test_001 - Filling Data on Home Loan Emi Calculator Done
+23:26:10.582 [main] INFO  testCases.Test_001 - Validation of web page title started
+23:26:10.606 [main] INFO  testCases.Test_001 - Validation of WebPage Title is done
+23:26:11.390 [main] INFO  testCases.Test_001 - Validation of Emi Calculator Started
+23:26:14.406 [main] INFO  testCases.Test_001 - Changing the Loan Tenure for year and month in Emi Calculator Started
+23:26:16.196 [main] INFO  testCases.Test_001 - Changing the Loan Tenure for year and month in Emi Calculator Done
+23:26:17.540 [main] INFO  testCases.Test_001 - Validation of Emi Calculator Started
+23:26:18.147 [main] INFO  testCases.Test_001 - Validation of Loan Amount Calculator Started
+23:26:21.727 [main] INFO  testCases.Test_001 - Changing the Loan Tenure for year and month in Loan amount Calculator Started
+23:26:23.202 [main] INFO  testCases.Test_001 - Changing the Loan Tenure for year and month in Loan amount Calculator Done
+23:26:24.480 [main] INFO  testCases.Test_001 - Validation of Loan Amount Calculator Done
+23:26:25.089 [main] INFO  testCases.Test_001 - Validation of Loan Tenure Calculator Started
+23:26:30.438 [main] INFO  testCases.Test_001 - Validation of Loan Tenure Calculator Done
+23:26:30.735 [main] INFO  testCases.Test_001 - *****Test_001 Has Finished*****
