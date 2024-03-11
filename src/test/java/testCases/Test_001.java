@@ -76,7 +76,7 @@ public class Test_001 extends BaseClass {
 	public void verifyValidLoanWebPage() {
 		hl.navLoanCalculator();
 		logger.info("Validation of web page title started");
-		Assert.assertEquals(driver.getTitle(),"Loan Calculator — Calculate EMI, Affordability, Tenure & Interest Rate");
+		Assert.assertEquals(driver.getTitle(),"Loan Calculator � Calculate EMI, Affordability, Tenure & Interest Rate");
 		logger.info("Validation of WebPage Title is done");
 		captureScreen("img_titleValidationLoanCalculator");
 	}
