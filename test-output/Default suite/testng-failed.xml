@@ -5,26 +5,26 @@
     <classes>
       <class name="testCases.Test_001">
         <methods>
-          <include name="uiHomeOwnerExpenses"/>
+          <include name="lacInterest"/>
           <include name="ecLoanAmount"/>
+          <include name="uiHomeOwnerExpenses"/>
           <include name="lacLoanTenure"/>
           <include name="verifyValidLoanAmountCalculator"/>
-          <include name="lacFeesAndCharge"/>
           <include name="verifyValidLoanWebPage"/>
+          <include name="lacFeesAndCharge"/>
           <include name="dataFillingInCarLoan"/>
           <include name="setup"/>
-          <include name="ltcEmiAndInteretRate"/>
           <include name="teardown"/>
           <include name="ecLoanTenure"/>
           <include name="ltcLoanAmount"/>
-          <include name="verifyValidLoanTenureCalculator"/>
           <include name="ltcFees"/>
+          <include name="verifyValidLoanTenureCalculator"/>
           <include name="lacEmi"/>
           <include name="ecInterest"/>
-          <include name="lacInterestAndLoanTenure"/>
           <include name="uiHomeLoanEmiCalculator"/>
           <include name="ecFeesAndCharge"/>
           <include name="verifyValidCarWebPage"/>
+          <include name="ltcEmiAndInterest"/>
           <include name="dataFillingInHomeLoan"/>
           <include name="verifyValidHomeWebPage"/>
         </methods>
